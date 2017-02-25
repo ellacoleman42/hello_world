@@ -1,0 +1,6 @@
+#to get this working we deleted the existing workspace from cloud9
+#created a new workspce in cloud9 from the github repository
+#open new terminal session in cloud9 by ALT-T
+#then for each new file we used a terminal session to run:   git add <filename>
+#then once for this set of changes ran in a terminal  git commit -m "description comment about change"
+#finally to sync this to github run in a terminal :  git push -u origin master
